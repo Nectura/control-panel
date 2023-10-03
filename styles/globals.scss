@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+
+a.redirection-link {
+  color: rgb(25, 118, 210);
+  transition: 0.3s;
+}
+
+a.redirection-link:hover {
+  color: rgb(61, 158, 255);
+}
